@@ -1,2 +1,3 @@
-# ecoconception
-Work in progress.
+# EcoConception
+
+Training EcoConception http://www.GreenIT.fr
